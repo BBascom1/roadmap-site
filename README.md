@@ -1,1 +1,1 @@
-<img src="/assets/img/Estate_Plan_Roadmap.jpg" alt="Estate_Plan_Roadmap" width="600">
+<img src="/assets/img/Estate_Plan_Roadmap.jpg" alt="Estate_Plan_Roadmap.jpg" width="600">
