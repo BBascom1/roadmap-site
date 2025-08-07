@@ -1,1 +1,1 @@
-![Estate Plan Roadmap](/assets/img/Estate_Plan_Roadmap.jpg)
+![Estate Plan Roadmap](Estate_Plan_Roadmap.jpg)
